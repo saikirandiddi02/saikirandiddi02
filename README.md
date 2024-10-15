@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @saikirandiddi02
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning Backend development using NodeJs
+- 📫 You can reach out to me using my mail saikiran.diddi@thebluespire.com
